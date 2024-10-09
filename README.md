@@ -11,9 +11,6 @@ Business Intelligence: Optimizing business performance through data-driven strat
 🏆 Achievements:
 World’s Top 2% Scientist (2024) by Elsevier-Stanford.
 Senior Member of IEEE.
-Published 36 research papers in high-impact journals.
-3 Patents and 2 copyrights in AI and neural networks.
-Author/editor of 23 research books with world-class publishers.
 
 📈 What You’ll Find Here:
 On my GitHub, you’ll find:
